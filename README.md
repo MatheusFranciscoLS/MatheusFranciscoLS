@@ -10,7 +10,9 @@ Atuamente trabalhando como Vendedor, mas futuramente quero entrar na area de Tec
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-francisco-1626821b5/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheusfran.ls@gmail.com)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscoLS&theme=dracula)
+![Matheus GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscoLS&theme=dracula)
+
+![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFranciscoLS&show_icons=true&theme=dracula)
 
 ## Tecnologias aprendi em Cursos
 
