@@ -1,5 +1,11 @@
 ## Olá! Eu sou Matheus Francisco 🖐️ 
 
+Sou estudante de Desenvolvimento de Sistemas no SENAI em Limeira-SP
+
+Atuamente trabalhando como Vendedor, mas futuramente quero entrar na area de Tecnologia
+
+## 📱 Redes Sociais
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.francisco12/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-francisco-1626821b5/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheusfran.ls@gmail.com)
