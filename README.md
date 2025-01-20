@@ -68,6 +68,6 @@ Confira meus outros projetos disponíveis no [GitHub](https://github.com/Matheus
 
 ## 🤝 Vamos Colaborar?
 
-Adoro trocar ideias e trabalhar em equipe. Se quiser colaborar em algum projeto ou apenas conversar sobre tecnologia, sinta-se à vontade para me chamar!
+Gosto de compartilhar ideias e colaborar em projetos. Se você quiser conversar sobre tecnologia ou trabalhar junto em alguma iniciativa, fique à vontade para me chamar!
 
 ✨ [Vamos nos conectar no LinkedIn!](https://www.linkedin.com/in/matheusfranciscols/)
