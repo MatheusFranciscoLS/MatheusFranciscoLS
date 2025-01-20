@@ -26,7 +26,7 @@ Durante minha trajetória, desenvolvi habilidades técnicas em desenvolvimento f
 
 ## 🌟 Conquistas e Projetos
 
-- **TCC: Economia Solidária**  
+- **Projeto Final (SENAI): Economia Solidária**  
   Desenvolvi uma plataforma que conecta empreendedores locais a consumidores, utilizando **React**, **Firebase** e integração de APIs. O projeto promove o consumo consciente e apoia pequenos negócios.  
   [Acesse o projeto aqui](https://economia-solidaria-frontend.vercel.app/).
 
@@ -35,7 +35,6 @@ Durante minha trajetória, desenvolvi habilidades técnicas em desenvolvimento f
 ## 📱 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfranciscols/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusFranciscoLS)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_matheusfrancisco_/)
 
 ---
