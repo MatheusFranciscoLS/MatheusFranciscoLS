@@ -1,45 +1,69 @@
-## 👋 Olá! Eu sou Matheus Francisco 
+# 👋 Olá! Eu sou Matheus Francisco 
 
-Sou desenvolvedor em transição de carreira, com formação técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente cursando Ciência da Computação. Apaixonado por tecnologia e desenvolvimento de soluções, busco criar projetos que impactem positivamente empresas e pessoas.
-
-Durante minha trajetória, desenvolvi habilidades técnicas em desenvolvimento front-end e back-end, utilizando tecnologias como React, Node.js, Laravel e integração de APIs RESTful. Meu TCC, "Economia Solidária", é um exemplo de como aplico a tecnologia para resolver problemas reais, conectando empreendedores locais a consumidores.
-
----
-
-## 💼 Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+🎯 **Transformando ideias em código funcional.**  
+Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando soluções inovadoras para problemas do mundo real. Atualmente, estou em transição de carreira e cursando Ciência da Computação, enquanto aprimoro minhas habilidades em desenvolvimento.
 
 ---
 
-## 🌟 Conquistas e Projetos
+## 📚 Sobre Mim  
+- 💼 Experiência em comunicação, negociação e resolução de problemas, que agora aplico na área de tecnologia.  
+- 🎓 Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI e estudante de Ciência da Computação.  
+- 🚀 Focado em aprender e contribuir em projetos que impactem positivamente pessoas e empresas.
 
-- **Projeto Final (SENAI): Economia Solidária**  
-  Desenvolvi uma plataforma que conecta empreendedores locais a consumidores, utilizando **React**, **Firebase** e integração de APIs. O projeto promove o consumo consciente e apoia pequenos negócios.  
-  [Acesse o projeto aqui](https://economia-solidaria-frontend.vercel.app/).
+---
 
+## 🚀 Projetos em Destaque
+
+- **[Economia Solidária](https://economia-solidaria-frontend.vercel.app/):**  
+  Plataforma para conectar empreendedores locais a consumidores.  
+  **Tecnologias:** React, Firebase e APIs externas.  
+
+- **[To-Do List App](https://github.com/MatheusFranciscoLS/AvaliacaoSAEP):**  
+  Aplicativo para organização de tarefas.  
+  **Tecnologias:** Java, PostgreSQL.
+  
 ---
 
 ## 📱 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfranciscols/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfranciscols/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_matheusfrancisco_/)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Tecnologias e Ferramentas  
 
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img align="center" alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+## 📜 Certificações
+- **Programação Banco de Dados** – SENAI SP (2024)
+- **AWS Academy Cloud Foundations** – SENAI SP (2022)  
+- **Programação Java** – SENAI SP (2022)
+
+---
+
+## 📈 Estatísticas do GitHub  
+
+![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFranciscoLS&show_icons=true&theme=dracula)  
 ![Matheus GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscoLS&theme=dracula)
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFranciscoLS&show_icons=true&theme=dracula)
+
+---
+
+## 🤝 Vamos Colaborar?
+
+Adoro trocar ideias e trabalhar em equipe. Se quiser colaborar em algum projeto ou apenas conversar sobre tecnologia, sinta-se à vontade para me chamar!
+
+✨ [Vamos nos conectar no LinkedIn!](https://www.linkedin.com/in/https://www.linkedin.com/in/matheusfranciscols/)
