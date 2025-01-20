@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Matheus Francisco 
 
-🎯 Transformando ideias em soluções digitais.
+🎯 **Transformando ideias em soluções digitais.**  
 Com foco em tecnologia e desenvolvimento de sistemas, busco aplicar minhas habilidades para criar soluções práticas e inovadoras para desafios reais. Atualmente, estou em transição de carreira, cursando Ciência da Computação, e dedicando-me a aprimorar minhas competências em desenvolvimento de software.
 ---
 
