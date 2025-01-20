@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando sol
 ## 📚 Sobre Mim  
 - 💼 Experiência em comunicação, negociação e resolução de problemas, que agora aplico na área de tecnologia.  
 - 🎓 Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI e estudante de Ciência da Computação.  
-- 🚀 Focado em aprender e contribuir em projetos que impactem positivamente pessoas e empresas.
+- 🚀 Focado em aprender e contribuir em projetos que impactem positivamente pessoas e empresas, com interesse especial em desenvolvimento front-end e integração de sistemas.
 
 ---
 
@@ -19,9 +19,9 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando sol
   **Tecnologias:** React, Firebase e APIs externas.  
 
 - **[To-Do List App](https://github.com/MatheusFranciscoLS/AvaliacaoSAEP):**  
-  Aplicativo para organização de tarefas.  
+  Aplicativo para organização de tarefas pessoais e profissionais, com interface simples e intuitiva.  
   **Tecnologias:** Java, PostgreSQL.
-  
+
 ---
 
 ## 📱 Redes Sociais
@@ -49,9 +49,9 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando sol
 ---
 
 ## 📜 Certificações
-- **Programação Banco de Dados** – SENAI SP (2024)
-- **AWS Academy Cloud Foundations** – SENAI SP (2022)  
-- **Programação Java** – SENAI SP (2022)
+- **Programação Banco de Dados** – SENAI SP (2024)  
+- **Programação Java** – SENAI SP (2022)  
+- **AWS Academy Cloud Foundations** – SENAI SP (2022)
 
 ---
 
@@ -62,8 +62,13 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando sol
 
 ---
 
+## 🌟 Explore Mais  
+Confira meus outros projetos disponíveis no [GitHub](https://github.com/MatheusFranciscoLS?tab=repositories) e sinta-se à vontade para dar sugestões ou contribuir!
+
+---
+
 ## 🤝 Vamos Colaborar?
 
 Adoro trocar ideias e trabalhar em equipe. Se quiser colaborar em algum projeto ou apenas conversar sobre tecnologia, sinta-se à vontade para me chamar!
 
-✨ [Vamos nos conectar no LinkedIn!](https://www.linkedin.com/in/https://www.linkedin.com/in/matheusfranciscols/)
+✨ [Vamos nos conectar no LinkedIn!](https://www.linkedin.com/in/matheusfranciscols/)
