@@ -56,7 +56,7 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando sol
 
 ## 📈 Estatísticas do GitHub  
 
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFranciscoLS&show_icons=true&theme=dracula&height=200)  ![Matheus GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscoLS&theme=dracula&langs_count=8&hide=html,css&layout=compact&height=200)
+![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFranciscoLS&show_icons=true&theme=dracula&height=200)  ![Matheus GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscoLS&theme=dracula&langs_count=8&layout=compact)
 
 
 ---
