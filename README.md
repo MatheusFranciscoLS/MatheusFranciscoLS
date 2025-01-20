@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou Matheus Francisco 
 
-🎯 **Transformando ideias em código funcional.**  
-Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando soluções inovadoras para problemas do mundo real. Atualmente, estou em transição de carreira e cursando Ciência da Computação, enquanto aprimoro minhas habilidades em desenvolvimento.
-
+🎯 **Transformando ideias em soluções digitais.**  
+Com foco em tecnologia e desenvolvimento de sistemas, busco aplicar minhas habilidades para criar soluções práticas e inovadoras para desafios reais. Atualmente, estou em transição de carreira, cursando Ciência da Computação, e dedicando-me a aprimorar minhas competências em desenvolvimento de software.
 ---
 
 ## 📚 Sobre Mim  
