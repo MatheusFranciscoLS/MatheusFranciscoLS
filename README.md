@@ -57,7 +57,7 @@ Meu objetivo é aplicar conhecimentos técnicos para construir soluções eficie
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Francisco-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matheusfranciscols)  
-📧 Email: matheus.francisco.ls@gmail.com
+📧 Email: matheusf.ls@hotmail.com
 
 ---
 
