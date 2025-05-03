@@ -23,7 +23,7 @@ Meu objetivo é aplicar conhecimentos técnicos para construir soluções eficie
 
 ## Projetos em Destaque
 
-- **[Economia Solidária](https://economia-solidaria-frontend.vercel.app)**  
+- **[Economia Solidária](https://github.com/MatheusFranciscoLS/ProjetoFinal)**  
   Plataforma para divulgação de pequenos empreendedores locais.  
   **Stack:** React.js, Firebase, integração com APIs externas.
 
