@@ -31,7 +31,7 @@ Meu objetivo é aplicar conhecimentos técnicos para construir soluções eficie
   Gerenciamento de tarefas pessoais com autenticação e persistência de dados.  
   **Stack:** Java, PostgreSQL.
 
-- **[Desafio Técnico Fúria Tech](https://github.com/MatheusFranciscoLS/DesafioFuria)**  
+- **[Desafio Técnico Fúria Tech](https://github.com/MatheusFranciscoLS/Challenge1Furia)**  
   Participação em processo seletivo da Fúria Tech.  
   Desenvolvimento de uma experiência conversacional e uma solução de coleta de dados de fãs.  
   **Stack:** React.js, CSS, Node.js, Integrações com IA e APIs externas.
