@@ -21,15 +21,13 @@ Profissional em transição de carreira para a área de desenvolvimento de softw
 
 ### 🚀 Projetos em Destaque
 
-- 📄 **Sistema de Manutenção Industrial (Java & Swing)**
+- 📄 **[Sistema de Manutenção Industrial (Java & Swing)](https://github.com/MatheusFranciscoLS/JavaProjects/tree/main/projeto_manutencao)**
   - Aplicação de desktop completa para gerenciamento de manutenções com interface gráfica (GUI) e comunicação com um backend via API REST, utilizando arquitetura MVC.
   - **Stack:** Java, Swing, JDBC, RESTful APIs.
-  - **Repositório:** `(insira o link do seu repositório aqui)`
 
-- 🎮 **Desafio FURIA | Plataforma de Comunidade (React & Node.js)**
+- 🎮 **[Desafio FURIA | Plataforma de Comunidade (React & Node.js)](https://github.com/MatheusFranciscoLS/Challenge1Furia)**
   - Plataforma full stack para engajamento de fãs de e-sports com interatividade em tempo real, desenvolvida como desafio técnico.
   - **Stack:** React, Vite, Node.js, Firebase.
-  - **Repositório:** `(https://github.com/MatheusFranciscoLS/Challenge1Furia)`
 
 - 🛒 **[Economia Solidária (TCC) | Aplicação Full Stack (React & Node.js)](https://github.com/MatheusFranciscoLS/ProjetoFinal)**
   - Plataforma web para conectar pequenos empreendedores a consumidores, com autenticação de usuários, upload de imagens e integração com API externa.
