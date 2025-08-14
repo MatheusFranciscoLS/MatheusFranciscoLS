@@ -29,9 +29,16 @@ Profissional em transição de carreira para a área de desenvolvimento de softw
   - Plataforma full stack para engajamento de fãs de e-sports com interatividade em tempo real, desenvolvida como desafio técnico.
   - **Stack:** React, Vite, Node.js, Firebase.
 
-- 🛒 **[Economia Solidária (TCC) | Aplicação Full Stack (React & Node.js)](https://github.com/MatheusFranciscoLS/ProjetoFinal)**
+- 🔗 **[Economia Solidária (TCC) | Aplicação Full Stack (React & Node.js)](https://github.com/MatheusFranciscoLS/ProjetoFinal)**
   - Plataforma web para conectar pequenos empreendedores a consumidores, com autenticação de usuários, upload de imagens e integração com API externa.
   - **Stack:** React, Node.js, Firebase.
+
+---
+
+### 🎓 Formação
+
+- **Bacharelado em Ciência da Computação** – Universidade Anhembi Morumbi (2024 – Presente)
+- **Técnico em Desenvolvimento de Sistemas** – SENAI SP (2022 – 2024)
 
 ---
 
