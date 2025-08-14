@@ -31,10 +31,9 @@ Profissional em transição de carreira para a área de desenvolvimento de softw
   - **Stack:** React, Vite, Node.js, Firebase.
   - **Repositório:** `(https://github.com/MatheusFranciscoLS/Challenge1Furia)`
 
-- 🛒 **Economia Solidária (TCC) | Aplicação Full Stack (React & Node.js)**
+- 🛒 **[Economia Solidária (TCC) | Aplicação Full Stack (React & Node.js)](https://github.com/MatheusFranciscoLS/ProjetoFinal)**
   - Plataforma web para conectar pequenos empreendedores a consumidores, com autenticação de usuários, upload de imagens e integração com API externa.
   - **Stack:** React, Node.js, Firebase.
-  - **Repositório:** `(https://github.com/MatheusFranciscoLS/ProjetoFinal)`
 
 ---
 
