@@ -29,12 +29,12 @@ Profissional em transição de carreira para a área de desenvolvimento de softw
 - 🎮 **Desafio FURIA | Plataforma de Comunidade (React & Node.js)**
   - Plataforma full stack para engajamento de fãs de e-sports com interatividade em tempo real, desenvolvida como desafio técnico.
   - **Stack:** React, Vite, Node.js, Firebase.
-  - **Repositório:** `https://github.com/MatheusFranciscoLS/Challenge1Furia`
+  - **Repositório:** `(https://github.com/MatheusFranciscoLS/Challenge1Furia)`
 
 - 🛒 **Economia Solidária (TCC) | Aplicação Full Stack (React & Node.js)**
   - Plataforma web para conectar pequenos empreendedores a consumidores, com autenticação de usuários, upload de imagens e integração com API externa.
   - **Stack:** React, Node.js, Firebase.
-  - **Repositório:** `https://github.com/MatheusFranciscoLS/ProjetoFinal`
+  - **Repositório:** `(https://github.com/MatheusFranciscoLS/ProjetoFinal)`
 
 ---
 
