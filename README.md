@@ -1,55 +1,63 @@
-# Matheus Francisco L. da Silva
-**Desenvolvedor de Software Júnior | Full-Stack JavaScript & Java**
+<div align="center">
+  <a href="https://matheusfranciscols.github.io/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Matheus+Francisco!;Desenvolvedor+Full-Stack;Java+%7C+Spring+%7C+React+%7C+Node.js" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<div align="center">
+  
+  [![Portfólio](https://img.shields.io/badge/🌐_Visite_meu_Portfólio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://matheusfranciscols.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfranciscols)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusf.ls@hotmail.com)
 
-### Sobre Mim
-Profissional em transição de carreira para a área de desenvolvimento de software, combinando 7 anos de experiência em comunicação e negociação com uma sólida formação técnica. Graduando em Ciência da Computação e formado Técnico em Desenvolvimento de Sistemas, com experiência prática em projetos Full Stack (React, Node.js) e aplicações de desktop (Java). Busco minha primeira oportunidade para aplicar minhas habilidades e contribuir com soluções inovadoras.
+</div>
 
----
-
-### 💻 Tecnologias e Ferramentas
-
-- **Front-end:** HTML5, CSS3, JavaScript (ES6+), React.js
-- **Back-end:** Node.js (Express), Java, APIs RESTful
-- **Banco de Dados:** PostgreSQL, MySQL, Firebase, MongoDB, JDBC
-- **Interface Gráfica (Desktop):** Java Swing
-- **Ferramentas e Metodologias:** Git, Scrum/Kanban, Figma, Testes Unitários
-- **Cloud:** Conhecimentos Fundamentais em AWS
-
----
-
-### 🚀 Projetos em Destaque
-
-- 📄 **[Sistema de Manutenção Industrial (Java & Swing)](https://github.com/MatheusFranciscoLS/JavaProjects/tree/main/projeto_manutencao)**
-  - Aplicação de desktop completa para gerenciamento de manutenções com interface gráfica (GUI) e comunicação com um backend via API REST, utilizando arquitetura MVC.
-  - **Stack:** Java, Swing, JDBC, RESTful APIs.
-
-- 🎮 **[Desafio FURIA | Plataforma de Comunidade (React & Node.js)](https://github.com/MatheusFranciscoLS/Challenge1Furia)**
-  - Plataforma full stack para engajamento de fãs de e-sports com interatividade em tempo real, desenvolvida como desafio técnico.
-  - **Stack:** React, Vite, Node.js, Firebase.
-
-- 🔗 **[Economia Solidária (TCC) | Aplicação Full Stack (React & Node.js)](https://github.com/MatheusFranciscoLS/ProjetoFinal)**
-  - Plataforma web para conectar pequenos empreendedores a consumidores, com autenticação de usuários, upload de imagens e integração com API externa.
-  - **Stack:** React, Node.js, Firebase.
-
----
-
-### 🎓 Formação
-
-- **Bacharelado em Ciência da Computação** – Universidade Anhembi Morumbi (2024 – Presente)
-- **Técnico em Desenvolvimento de Sistemas** – SENAI SP (2022 – 2024)
-
----
-
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Francisco-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matheusfranciscols)
 <br>
-📧 **Email:** matheusf.ls@hotmail.com
+
+## 👨‍💻 Sobre Mim
+
+Profissional em transição de carreira unindo **8 anos de experiência comercial** (negociação e comunicação estratégica) com a lógica do desenvolvimento de software. Não crio apenas código; resolvo dores reais de negócio.
+
+Atualmente curso **Ciência da Computação** e possuo formação técnica completa pelo **SENAI**. Meu foco é construir soluções escaláveis e performáticas.
+
+* 🎓 **Formação:** Bacharelado em Ciência da Computação (Anhembi Morumbi) & Técnico em Desenv. de Sistemas (SENAI).
+* 🚀 **Foco:** Java (Spring Boot), React.js, Arquitetura de Software e Cloud (AWS).
 
 ---
 
-### 📊 GitHub Insights
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFranciscoLS&show_icons=true&theme=dracula&hide=contribs,prs)
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws&perline=5" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,git&perline=8" />
+</div>
 
 ---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Stack Principal | Links |
+| :--- | :--- | :--- |
+| **Desafio FURIA**<br>Plataforma de comunidade com interatividade real-time e gamificação. | `React` `Node.js` `Firebase` | [![Repo](https://img.shields.io/badge/Repo-blue?style=flat-square&logo=github)](https://github.com/MatheusFranciscoLS/Challenge1Furia) [![Live](https://img.shields.io/badge/Live-green?style=flat-square&logo=vercel)](https://challenge1-furia.vercel.app) |
+| **Sistema de Manutenção**<br>Software Desktop robusto com arquitetura MVC e relatórios. | `Java` `Swing` `PostgreSQL` | [![Repo](https://img.shields.io/badge/Repo-blue?style=flat-square&logo=github)](https://github.com/MatheusFranciscoLS/JavaProjects/tree/main/projeto_manutencao) |
+| **Economia Solidária (TCC)**<br>Marketplace conectando produtores locais. Sistema completo. | `React` `Node.js` `API Rest` | [![Repo](https://img.shields.io/badge/Repo-blue?style=flat-square&logo=github)](https://github.com/MatheusFranciscoLS/ProjetoFinal) [![Live](https://img.shields.io/badge/Live-green?style=flat-square&logo=vercel)](https://economia-solidaria-frontend.vercel.app/login) |
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFranciscoLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscoLS&layout=compact&theme=tokyonight&hide_border=true"/>
+  </div>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusFranciscoLS&theme=tokyonight&hide_border=true" alt="Matheus Streak" />
+</div>
+
+---
+
+<div align="center">
+  <p>Desenvolvido por Matheus Francisco © 2025</p>
+</div>
