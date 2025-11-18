@@ -45,15 +45,26 @@ Atualmente curso **Ciência da Computação** e possuo formação técnica compl
 
 ---
 
-## 📊 GitHub Insights
+### 📊 GitHub Insights
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFranciscoLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscoLS&layout=compact&theme=tokyonight&hide_border=true"/>
-  </div>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusFranciscoLS&theme=tokyonight&hide_border=true" alt="Matheus Streak" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscoLS&layout=compact&theme=tokyonight&hide_border=true&hide=php,c%2B%2B,cmake,dart,makefile,html,css"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusFranciscoLS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusFranciscoLS&theme=tokyonight&no-frame=true&margin-w=4" />
 </div>
 
 ---
