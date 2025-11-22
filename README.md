@@ -41,7 +41,7 @@ Atualmente curso **Ciência da Computação** e possuo formação técnica compl
 | :--- | :--- | :--- |
 | **Desafio FURIA**<br>Plataforma de comunidade com interatividade real-time e gamificação. | `React` `Node.js` `Firebase` | [![Repo](https://img.shields.io/badge/Repo-blue?style=flat-square&logo=github)](https://github.com/MatheusFranciscoLS/Challenge1Furia) [![Live](https://img.shields.io/badge/Live-green?style=flat-square&logo=vercel)](https://challenge1-furia.vercel.app) |
 | **Sistema de Manutenção**<br>Software Desktop robusto com arquitetura MVC e relatórios. | `Java` `Swing` `PostgreSQL` | [![Repo](https://img.shields.io/badge/Repo-blue?style=flat-square&logo=github)](https://github.com/MatheusFranciscoLS/JavaProjects/tree/main/projeto_manutencao) |
-| **Economia Solidária (TCC)**<br>Marketplace conectando produtores locais. Sistema completo. | `React` `Node.js` `API Rest` | [![Repo](https://img.shields.io/badge/Repo-blue?style=flat-square&logo=github)](https://github.com/MatheusFranciscoLS/ProjetoFinal) [![Live](https://img.shields.io/badge/Live-green?style=flat-square&logo=vercel)](https://economia-solidaria-frontend.vercel.app/login) |
+| **Economia Solidária (TCC)**<br>Marketplace conectando produtores locais. Sistema completo. | `React` `Node.js` `API Rest` | [![Repo](https://img.shields.io/badge/Repo-blue?style=flat-square&logo=github)](https://github.com/MatheusFranciscoLS/ProjetoFinal) [![Live](https://img.shields.io/badge/Live-green?style=flat-square&logo=vercel)](https://economia-solidaria-frontend.vercel.app) |
 
 ---
 
