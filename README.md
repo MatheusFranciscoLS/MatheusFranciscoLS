@@ -11,7 +11,7 @@
 
 <div align="center">
   
-  [![Portfólio](https://img.shields.io/badge/🌐_Visite_meu_Portfólio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://matheusfranciscols.github.io/)
+  [![Portfólio](https://img.shields.io/badge/🌐_Visite_meu_Portfólio-3b82f6?style=for-the-badge&logoColor=white)](https://matheusfranciscols.github.io/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfranciscols)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusf.ls@hotmail.com)
 
@@ -21,54 +21,41 @@
 
 ## 👨‍💻 Sobre mim
 
-Profissional em transição de carreira, unindo **8 anos de experiência comercial** (negociação, relacionamento e leitura de contexto de negócio) com a **engenharia de software**.
+Desenvolvedor Full-Stack unindo **8 anos de experiência comercial** (negociação, relacionamento e visão de negócio) com a **Engenharia de Software**.
 
-Não escrevo código só por escrever:  
+Não escrevo código apenas por escrever:  
 **meu foco é transformar problemas reais em sistemas funcionando em produção.**
 
 - 🎓 **Formação:** Bacharelado em Ciência da Computação (Anhembi Morumbi) + Técnico em Desenvolvimento de Sistemas (SENAI).
 - ☕ **Stack principal:** Java (Spring Boot), React.js, Node.js, PostgreSQL.
-- ☁️ **Interesses atuais:** Arquitetura limpa, APIs REST bem desenhadas, integração front–back e práticas de cloud (AWS).
+- ☁️ **Interesses atuais:** Arquitetura limpa, APIs REST escaláveis e Cloud Computing (AWS).
 
 ### 💡 Como costumo atuar
 
-- **Autonomia & Resolução:** pego contexto, quebro o problema e entrego solução funcional.
-- **Código com propósito:** penso em fluxo do usuário, regras de negócio e impacto antes de abrir o editor.
-- **Comunicação clara:** traduzo necessidade de negócio para requisitos técnicos e vice-versa.
+- **Autonomia & Resolução:** Entendo o contexto, quebro o problema e entrego a solução.
+- **Código com propósito:** Foco no fluxo do usuário e nas regras de negócio antes de abrir o editor.
+- **Comunicação clara:** Traduzo necessidades de negócio para requisitos técnicos (e vice-versa).
 
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws&perline=5" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,js,ts,react,nodejs,html,css,tailwind,git&perline=13" />
 </div>
 
 <br />
 
-**Back-end & Dados**
-
-- Java • Spring Boot • Node.js (Express)
-- PostgreSQL • Firebase • REST APIs
-
-**Front-end**
-
-- React.js • Vite
-- TypeScript • HTML • CSS / Tailwind
-
-**DevOps & Ferramentas**
-
-- Git / GitHub • Docker
-- Vercel • Postman • Insomnia
+| Back-end & Dados | Front-end | DevOps & Tools |
+| :--- | :--- | :--- |
+| Java • Spring Boot • Node.js | React.js • Vite • TypeScript | Git / GitHub • Docker |
+| PostgreSQL • Firebase • API REST | HTML • CSS • Tailwind | Vercel • AWS • Postman |
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-> Mais detalhes, prints e contexto de cada projeto estão no meu portfólio:  
-> 🔗 https://matheusfranciscols.github.io/
+> 🔗 **Ver portfólio completo e documentação:** [matheusfranciscols.github.io](https://matheusfranciscols.github.io/)
 
 | Projeto | Stack Principal | Links |
 | :--- | :--- | :--- |
@@ -103,13 +90,6 @@ Não escrevo código só por escrever:
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusFranciscoLS&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" 
-  />
-  
-  <br /><br />
-
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=MatheusFranciscoLS&theme=tokyonight&no-frame=true&margin-w=4" 
-    alt="GitHub Trophies" 
   />
 </div>
 
