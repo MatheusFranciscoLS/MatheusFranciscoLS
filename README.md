@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://matheusfranciscols.github.io/">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=480&lines=Ol%C3%A1%2C+eu+sou+Matheus+Francisco!;Desenvolvedor+Full-Stack;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js" 
-      alt="Typing SVG" 
-    />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=480&lines=Ol%C3%A1%2C+eu+sou+Matheus+Francisco!;Desenvolvedor+Full-Stack;React+%7C+Node.js+%7C+Python+%7C+Java" 
+  alt="Typing SVG" 
+/>
   </a>
 </div>
 
@@ -27,7 +27,7 @@ Não escrevo código apenas por escrever:
 **meu foco é transformar problemas reais em sistemas funcionando em produção.**
 
 - 🎓 **Formação:** Bacharelado em Ciência da Computação (Anhembi Morumbi) + Técnico em Desenvolvimento de Sistemas (SENAI).
-- ☕ **Stack principal:** Java (Spring Boot), React.js, Node.js, PostgreSQL.
+- ☕ **Stack principal:** React.js, Node.js, Python, Java (Spring Boot), PostgreSQL.
 - ☁️ **Interesses atuais:** Arquitetura limpa, APIs REST escaláveis e Cloud Computing (AWS).
 
 ### 💡 Como costumo atuar
@@ -41,14 +41,14 @@ Não escrevo código apenas por escrever:
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,js,ts,react,nodejs,html,css,tailwind,git&perline=13" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,postgres,docker,aws,js,ts,react,html,css,tailwind,git&perline=14" />
 </div>
 
 <br />
 
 | Back-end & Dados | Front-end | DevOps & Tools |
 | :--- | :--- | :--- |
-| Java • Spring Boot • Node.js | React.js • Vite • TypeScript | Git / GitHub • Docker |
+| Node.js • Python • Java • Spring Boot | React.js • Vite • TypeScript | Git / GitHub • Docker |
 | PostgreSQL • Firebase • API REST | HTML • CSS • Tailwind | Vercel • AWS • Postman |
 
 ---
