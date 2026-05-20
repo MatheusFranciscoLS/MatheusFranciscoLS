@@ -70,18 +70,18 @@ Desenvolvedor Full-Stack unindo **8 anos de background comercial** (negociação
 ## 📊 GitHub Insights
 
 <div align="center">
-  <a href="https://github.com/MatheusFranciscoLS">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatheusFranciscoLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/MatheusFranciscoLS">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscoLS&layout=compact&theme=tokyonight&hide_border=true&hide=php,c%2B%2B,cmake,dart,makefile,html,css&langs_count=6" height="160" alt="Top Languages" />
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFranciscoLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/MatheusFranciscoLS)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscoLS&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=6)](https://github.com/MatheusFranciscoLS)
+
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusFranciscoLS&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusFranciscoLS&theme=tokyonight&hide_border=true)](https://github.com/MatheusFranciscoLS)
+
 </div>
 
 ---
