@@ -67,25 +67,6 @@ Desenvolvedor Full-Stack unindo **8 anos de background comercial** (negociação
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFranciscoLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/MatheusFranciscoLS)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscoLS&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=6)](https://github.com/MatheusFranciscoLS)
-
-</div>
-
-<br />
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusFranciscoLS&theme=tokyonight&hide_border=true)](https://github.com/MatheusFranciscoLS)
-
-</div>
-
----
-
 <div align="center">
   <sub>Construído e mantido por Matheus Francisco © 2026</sub>
 </div>
