@@ -12,7 +12,7 @@ Transformo fluxos complexos em plataformas claras, seguras e escaláveis — do 
 
 ## Sobre
 
-Desenvolvedor full-stack que combina engenharia de software com **8+ anos de experiência de negócio**. Projeto e entrego produtos de ponta a ponta, traduzindo necessidades reais em interfaces claras, APIs confiáveis e arquiteturas preparadas para evoluir.
+Desenvolvedor full-stack que combina engenharia de software com **9+ anos de experiência de negócio**. Projeto e entrego produtos de ponta a ponta, traduzindo necessidades reais em interfaces claras, APIs confiáveis e arquiteturas preparadas para evoluir.
 
 - **Agora:** produtos full-stack, arquitetura de software e soluções com IA aplicada.
 - **Formação:** Ciência da Computação na Universidade Anhembi Morumbi, em curso, e Técnico em Desenvolvimento de Sistemas pelo SENAI.
