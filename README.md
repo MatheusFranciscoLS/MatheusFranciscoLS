@@ -1,72 +1,106 @@
 <div align="center">
-  <a href="https://matheusfranciscols.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+eu+sou+Matheus+Francisco!;Engenheiro+de+Software+%7C+Full-Stack;Microservi%C3%A7os+%7C+Java+%7C+React+%7C+Node" alt="Typing SVG" />
-  </a>
+
+# Matheus Francisco
+
+### Full-Stack Product Engineer
+
+Transformo fluxos complexos em plataformas claras, seguras e escaláveis — do banco de dados à experiência final.
+
+[Portfólio](https://matheusfranciscols.github.io/) · [LinkedIn](https://www.linkedin.com/in/matheusfranciscols) · [E-mail](mailto:matheusf.ls@hotmail.com)
+
 </div>
+
+## Sobre
+
+Desenvolvedor full-stack que combina engenharia de software com **8+ anos de experiência de negócio**. Projeto e entrego produtos de ponta a ponta, traduzindo necessidades reais em interfaces claras, APIs confiáveis e arquiteturas preparadas para evoluir.
+
+- **Agora:** produtos full-stack, arquitetura de software e soluções com IA aplicada.
+- **Formação:** Ciência da Computação na Universidade Anhembi Morumbi, em curso, e Técnico em Desenvolvimento de Sistemas pelo SENAI.
+- **Diferencial:** visão de produto, comunicação com áreas de negócio e autonomia para conduzir uma solução do problema à entrega.
+
+## Case principal — CogniVault
+
+<a href="https://cognivault-murex.vercel.app">
+  <img src="https://matheusfranciscols.github.io/assets/cognivault-login.webp" alt="Tela de login do CogniVault" width="100%">
+</a>
+
+**Catálogo técnico inteligente para operação de peças.** O CogniVault centraliza catálogos privados, peças e conhecimento operacional, combinando controle de acesso por função, processamento assíncrono e respostas de IA baseadas em evidências.
+
+| Desafio | Solução |
+| :--- | :--- |
+| Conhecimento técnico disperso, documentos sensíveis e busca lenta por componentes. | Uma plataforma com catálogo estruturado, armazenamento privado, rastreabilidade, busca técnica e IA que evita respostas sem evidência suficiente. |
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `RabbitMQ` `Supabase` `IA`
+
+[Abrir aplicação](https://cognivault-murex.vercel.app) · [Ver código](https://github.com/MatheusFranciscoLS/CogniVault)
+
+## Produtos selecionados
+
+| Produto | O que resolve | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **BusinessFlow** | Centraliza CRM, agenda, financeiro, serviços, relatórios e indicadores de pequenos negócios. | React, Node.js, PostgreSQL, Prisma | [Aplicação](https://flowbusiness.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/BusinessFlow) |
+| **Plataforma IoT Industrial** | Processa e exibe telemetria industrial em tempo real com microsserviços e mensageria. | Java, Spring Boot, React, RabbitMQ, WebSockets, Python | [Aplicação](https://plataforma-iot-industrial.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) |
+| **Economia Solidária** | Conecta produtores locais e consumidores em um marketplace com autenticação e gestão de lojas. | React, Node.js, Firebase | [Aplicação](https://economia-solidaria-frontend.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/ProjetoFinal) |
+| **FURIA Fan Chat** | Reúne chat, agenda, placares, mural e recursos de engajamento para fãs. | React, Vite, Firebase | [Aplicação](https://challenge1-furia.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/Challenge1Furia) |
+
+> Veja os **25 projetos catalogados**, com busca e filtros, no [portfólio completo](https://matheusfranciscols.github.io/#projetos).
+
+## Competências
+
+| Área | Tecnologias e práticas |
+| :--- | :--- |
+| **Back-end & arquitetura** | Java, Spring Boot, Node.js, TypeScript, Python, APIs REST, microsserviços, mensageria e WebSockets |
+| **Front-end** | React, TypeScript, JavaScript, Vite, HTML, CSS e interfaces responsivas e acessíveis |
+| **Dados & plataforma** | PostgreSQL, Prisma, Firebase, Supabase, RabbitMQ, Docker, GitHub Actions, Vercel e Render |
+| **IA & produto** | RAG, respostas baseadas em evidências, automação de fluxos, modelagem de regras de negócio e UX orientada a tarefas |
+
+## Como trabalho
+
+- Começo pelo problema e pelos fluxos críticos antes de escolher a tecnologia.
+- Equilibro experiência do usuário, regras de negócio, segurança e manutenibilidade.
+- Comunico decisões técnicas em linguagem clara e conduzo entregas de ponta a ponta.
+
+## Trajetória
+
+- **2024–2026:** Bacharelado em Ciência da Computação — Universidade Anhembi Morumbi, em curso.
+- **2022–2024:** Técnico em Desenvolvimento de Sistemas — SENAI.
+- **8+ anos de experiência de negócio:** comunicação, rotina comercial, negociação e leitura de processos aplicadas ao desenvolvimento de produtos.
+
+<details>
+<summary><strong>English version</strong></summary>
+
+### About
+
+I am a full-stack developer combining software engineering with **8+ years of business experience**. I design and deliver end-to-end products, translating real needs into clear interfaces, reliable APIs and architectures built to evolve.
+
+- **Current focus:** full-stack products, software architecture and applied AI.
+- **Education:** B.Sc. in Computer Science at Universidade Anhembi Morumbi, ongoing, and a Systems Development technical degree from SENAI.
+- **Strengths:** product thinking, cross-functional communication and ownership from problem discovery to delivery.
+
+### Flagship case — CogniVault
+
+CogniVault is an intelligent technical catalog for parts operations. It centralizes private catalogs, structured parts data and operational knowledge with role-based access, asynchronous processing and evidence-grounded AI answers.
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `RabbitMQ` `Supabase` `AI`
+
+[Open application](https://cognivault-murex.vercel.app) · [View source](https://github.com/MatheusFranciscoLS/CogniVault) · [Full portfolio](https://matheusfranciscols.github.io/)
+
+### Selected products
+
+- **BusinessFlow:** small-business SaaS for CRM, scheduling, finance, reports and operational insights.
+- **Industrial IoT Platform:** real-time industrial telemetry using microservices, messaging and WebSockets.
+- **Solidarity Economy:** marketplace connecting local producers and consumers.
+- **FURIA Fan Chat:** real-time community experience with chat, schedules, scores and engagement features.
+
+</details>
+
+---
 
 <div align="center">
-  <a href="https://matheusfranciscols.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visite_meu_Portfólio-0F172A?style=for-the-badge&logoColor=3b82f6&logo=googlechrome&border=3b82f6" alt="Portfólio" />
-  </a>
-  <a href="https://www.linkedin.com/in/matheusfranciscols" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:matheusf.ls@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+Disponível para oportunidades e colaborações em desenvolvimento full-stack.
+
+[Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/matheusfranciscols) · [Enviar e-mail](mailto:matheusf.ls@hotmail.com)
+
 </div>
 
----
-
-## 👨‍💻 Sobre mim
-
-Desenvolvedor Full-Stack unindo **8 anos de background comercial** (negociação, mapeamento de dores e visão de negócio) com a **Engenharia de Software**. Não escrevo código apenas por escrever: meu foco é arquitetar soluções que resolvem problemas reais em produção.
-
-* 🎓 **Formação:** Bacharelado em Ciência da Computação (Em curso) + Técnico em Desenvolvimento de Sistemas (SENAI).
-* ☕ **Core Stack:** Java (Spring Boot), Node.js, React.js, Python, PostgreSQL.
-* ☁️ **Foco de Atuação:** Arquitetura Limpa, APIs REST escaláveis, Mensageria (RabbitMQ) e Cloud Computing (Docker/AWS).
-
-### 💡 Como costumo atuar
-* **Autonomia:** Entendo o contexto, quebro o problema e entrego a solução de ponta a ponta.
-* **Código com Propósito:** Foco no fluxo do usuário e na estabilidade da arquitetura antes de abrir o editor.
-* **Comunicação Assertiva:** Traduzo necessidades de negócio para requisitos técnicos com facilidade.
-
----
-
-## 🛠 Tech Stack & Ferramentas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,react,ts,js,postgres,rabbitmq,docker,aws,git,html,tailwind&perline=14" alt="Tech Stack" />
-</div>
-
-<br />
-
-| ⚙️ Back-end & Arquitetura | 💻 Front-end Moderno | 🚀 DevOps & Nuvem |
-| :--- | :--- | :--- |
-| Java, Spring Boot, Node.js, Python | React.js, TypeScript, Vite | Docker, RabbitMQ, Vercel |
-| PostgreSQL, Firebase, REST APIs | HTML5, CSS3, Tailwind CSS | AWS, Git/GitHub, Postman |
-
----
-
-## 🏆 Projeto em Destaque
-
-### 🏭 [Plataforma de Monitoramento IoT Industrial](https://plataforma-iot-industrial.vercel.app/)
-> **Arquitetura de microsserviços em tempo real.** Monitoramento de telemetria de máquinas (Temperatura, RPM, Vibração) integrando simulador Python, mensageria com **RabbitMQ**, API Core em **Java (Spring Boot)**, Gateway **Node.js** com WebSockets e interface **React** protegida por criptografia JWT. Toda a orquestração feita em **Docker**.
->
-> [![Repo](https://img.shields.io/badge/Acessar_Código-blue?style=flat-square&logo=github)](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) [![Live](https://img.shields.io/badge/Acessar_Aplicação-green?style=flat-square&logo=vercel)](https://plataforma-iot-industrial.vercel.app)
-
-<br />
-
-## 🚀 Outras Soluções Desenvolvidas
-
-| Projeto | Stack Principal | Links |
-| :--- | :--- | :--- |
-| **BusinessFlow** <br/>SaaS full-stack completo para gestão empresarial (CRM, controle financeiro, agenda interativa e geração de relatórios dinâmicos). | `React` `Node` `PostgreSQL` | [![Repo](https://img.shields.io/badge/Repo-blue?style=flat-square&logo=github)](https://github.com/MatheusFranciscoLS/BusinessFlow) [![Live](https://img.shields.io/badge/Live-green?style=flat-square&logo=vercel)](https://flowbusiness.vercel.app) |
-| **Economia Solidária**<br/>Marketplace criado para conectar pequenos produtores e consumidores locais com autenticação e sistema de uploads. | `React` `Node` `Firebase` | [![Repo](https://img.shields.io/badge/Repo-blue?style=flat-square&logo=github)](https://github.com/MatheusFranciscoLS/ProjetoFinal) [![Live](https://img.shields.io/badge/Live-green?style=flat-square&logo=vercel)](https://economia-solidaria-frontend.vercel.app) |
-| **Desafio FURIA**<br/>Plataforma interativa de comunidade com foco total em UX, componentização limpa e elementos de gamificação visual. | `React` `CSS` `Vite` | [![Repo](https://img.shields.io/badge/Repo-blue?style=flat-square&logo=github)](https://github.com/MatheusFranciscoLS/Challenge1Furia) [![Live](https://img.shields.io/badge/Live-green?style=flat-square&logo=vercel)](https://challenge1-furia.vercel.app) |
-
----
-
-<div align="center">
-  <sub>Construído e mantido por Matheus Francisco © 2026</sub>
-</div>
