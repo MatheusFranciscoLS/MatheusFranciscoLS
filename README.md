@@ -55,7 +55,7 @@ Trago como diferencial **9 anos de vivência profissional na área comercial e d
 | **Back-end & arquitetura** | Java, Spring Boot, Spring Security, Node.js, Express, TypeScript, APIs REST, mensageria com RabbitMQ |
 | **Front-end** | React, TypeScript, JavaScript, Vite, HTML5, CSS3, design responsivo e acessibilidade |
 | **Dados & nuvem** | PostgreSQL, Microsoft SQL Server, Prisma, MySQL, Supabase, Firebase, Docker e deploy em nuvem |
-| **Práticas de engenharia** | Git/GitHub, Postman, Scrum/Kanban, modelagem relacional, Stored Procedures e testes automatizados |
+| **Práticas de engenharia** | Git/GitHub, Postman, Scrum/Kanban, modelagem relacional, testes automatizados |
 
 <details>
 <summary><strong>English version</strong></summary>
