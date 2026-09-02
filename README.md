@@ -1,106 +1,80 @@
 <div align="center">
 
-# Matheus Francisco
+# Matheus Francisco Lucchetti da Silva
 
-### Full-Stack Product Engineer
+### Desenvolvedor Full-Stack Júnior
+**Java / Spring Boot • React / Node.js • PostgreSQL**
 
-Transformo fluxos complexos em plataformas claras, seguras e escaláveis — do banco de dados à experiência final.
-
-[Portfólio](https://matheusfranciscols.github.io/) · [LinkedIn](https://www.linkedin.com/in/matheusfranciscols) · [E-mail](mailto:matheusf.ls@hotmail.com)
+[🌐 Portfólio](https://matheusfranciscols.github.io/) · [💼 LinkedIn](https://www.linkedin.com/in/matheusfranciscols) · [✉️ E-mail](mailto:matheusf.ls@hotmail.com)
 
 </div>
 
-## Sobre
+## Sobre Mim
 
-Desenvolvedor full-stack que combina engenharia de software com **9+ anos de experiência de negócio**. Projeto e entrego produtos de ponta a ponta, traduzindo necessidades reais em interfaces claras, APIs confiáveis e arquiteturas preparadas para evoluir.
+Desenvolvedor full-stack em transição de carreira, com formação técnica em **Desenvolvimento de Sistemas pelo SENAI** e cursando **Ciência da Computação na Universidade Anhembi Morumbi**. Experiência prática na construção de aplicações robustas e completas, do banco de dados relacional à interface com o usuário.
 
-- **Agora:** produtos full-stack, arquitetura de software e soluções com IA aplicada.
-- **Formação:** Ciência da Computação na Universidade Anhembi Morumbi, em curso, e Técnico em Desenvolvimento de Sistemas pelo SENAI.
-- **Diferencial:** visão de produto, comunicação com áreas de negócio e autonomia para conduzir uma solução do problema à entrega.
+Trago como diferencial **9 anos de vivência profissional na área comercial e de vendas**, o que me proporciona visão clara de processos de negócio, comunicação assertiva e foco em construir software que resolve as dores reais do cliente.
 
-## Case principal — CogniVault
+## Case Principal — CogniVault
 
 <a href="https://cognivault-murex.vercel.app">
   <img src="https://matheusfranciscols.github.io/assets/cognivault-login.webp" alt="Tela de login do CogniVault" width="100%">
 </a>
 
-**Catálogo técnico inteligente para operação de peças.** O CogniVault centraliza catálogos privados, peças e conhecimento operacional, combinando controle de acesso por função, processamento assíncrono e respostas de IA baseadas em evidências.
+**Catálogo técnico inteligente para operação de peças.** O CogniVault centraliza catálogos privados, peças e conhecimento operacional, combinando controle de acesso por função, processamento assíncrono com filas e respostas de IA baseadas estritamente em evidências.
 
-| Desafio | Solução |
-| :--- | :--- |
-| Conhecimento técnico disperso, documentos sensíveis e busca lenta por componentes. | Uma plataforma com catálogo estruturado, armazenamento privado, rastreabilidade, busca técnica e IA que evita respostas sem evidência suficiente. |
+`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `RabbitMQ` `Supabase` `IA RAG`
 
-`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `RabbitMQ` `Supabase` `IA`
+[Abrir aplicação](https://cognivault-murex.vercel.app) · [Ver código no GitHub](https://github.com/MatheusFranciscoLS/CogniVault)
 
-[Abrir aplicação](https://cognivault-murex.vercel.app) · [Ver código](https://github.com/MatheusFranciscoLS/CogniVault)
+## Projetos Selecionados com Deploy
 
-## Produtos selecionados
-
-| Produto | O que resolve | Stack | Links |
+| Projeto | O que resolve | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **BusinessFlow** | Centraliza CRM, agenda, financeiro, serviços, relatórios e indicadores de pequenos negócios. | React, Node.js, PostgreSQL, Prisma | [Aplicação](https://flowbusiness.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/BusinessFlow) |
-| **Plataforma IoT Industrial** | Processa e exibe telemetria industrial em tempo real com microsserviços e mensageria. | Java, Spring Boot, React, RabbitMQ, WebSockets, Python | [Aplicação](https://plataforma-iot-industrial.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) |
-| **Economia Solidária** | Conecta produtores locais e consumidores em um marketplace com autenticação e gestão de lojas. | React, Node.js, Firebase | [Aplicação](https://economia-solidaria-frontend.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/ProjetoFinal) |
-| **FURIA Fan Chat** | Reúne chat, agenda, placares, mural e recursos de engajamento para fãs. | React, Vite, Firebase | [Aplicação](https://challenge1-furia.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/Challenge1Furia) |
+| **BusinessFlow** | SaaS completo para gestão de pequenos negócios (CRM, financeiro, agenda e relatórios). | React, Node.js, PostgreSQL, Prisma | [Aplicação](https://flowbusiness.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/BusinessFlow) |
+| **Plataforma IoT Industrial** | Telemetria industrial em tempo real com microsserviços, mensageria e WebSockets. | Java, Spring Boot, React, RabbitMQ, WebSockets | [Aplicação](https://plataforma-iot-industrial.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) |
+| **Economia Solidária** | Marketplace do TCC SENAI conectando produtores locais e consumidores. | React, Node.js, Firebase | [Aplicação](https://economia-solidaria-frontend.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/ProjetoFinal) |
+| **FURIA Fan Chat** | Hub interativo com chat em tempo real, mural e placares para processo seletivo FURIA. | React, Vite, Firebase | [Aplicação](https://challenge1-furia.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/Challenge1Furia) |
 
-> Veja os **25 projetos catalogados**, com busca e filtros, no [portfólio completo](https://matheusfranciscols.github.io/#projetos).
+> Conheça todos os **25 projetos catalogados**, com filtros e busca, no meu [portfólio completo](https://matheusfranciscols.github.io/#projetos).
 
-## Competências
+## Formações & Certificações Relevantes
+
+- 🎓 **Bacharelado em Ciência da Computação** — Universidade Anhembi Morumbi *(Conclusão prevista: 10/2028)*
+- 🛠️ **Técnico em Desenvolvimento de Sistemas** — SENAI *(Concluído: 2024)*
+- 🏛️ **Ciência da Computação (CS50 de Harvard)** — Fundação Estudar • 70h (2025)
+- ☕ **Programação Java** — SENAI • 120h (2022)
+- 🗄️ **Programação de Banco de Dados (SQL Server / T-SQL)** — SENAI • 120h (2024)
+- ☁️ **AWS Cloud Practitioner Foundational** — SENAI • 40h (2022)
+- ☁️ **AI-900: Fundamentos de IA no Azure** — Fundação Bradesco • 16h (2025)
+
+## Competências Técnicas
 
 | Área | Tecnologias e práticas |
 | :--- | :--- |
-| **Back-end & arquitetura** | Java, Spring Boot, Node.js, TypeScript, Python, APIs REST, microsserviços, mensageria e WebSockets |
-| **Front-end** | React, TypeScript, JavaScript, Vite, HTML, CSS e interfaces responsivas e acessíveis |
-| **Dados & plataforma** | PostgreSQL, Prisma, Firebase, Supabase, RabbitMQ, Docker, GitHub Actions, Vercel e Render |
-| **IA & produto** | RAG, respostas baseadas em evidências, automação de fluxos, modelagem de regras de negócio e UX orientada a tarefas |
-
-## Como trabalho
-
-- Começo pelo problema e pelos fluxos críticos antes de escolher a tecnologia.
-- Equilibro experiência do usuário, regras de negócio, segurança e manutenibilidade.
-- Comunico decisões técnicas em linguagem clara e conduzo entregas de ponta a ponta.
-
-## Trajetória
-
-- **2024–2026:** Bacharelado em Ciência da Computação — Universidade Anhembi Morumbi, em curso.
-- **2022–2024:** Técnico em Desenvolvimento de Sistemas — SENAI.
-- **8+ anos de experiência de negócio:** comunicação, rotina comercial, negociação e leitura de processos aplicadas ao desenvolvimento de produtos.
+| **Back-end & arquitetura** | Java, Spring Boot, Spring Security, Node.js, Express, TypeScript, APIs REST, mensageria com RabbitMQ |
+| **Front-end** | React, TypeScript, JavaScript, Vite, HTML5, CSS3, design responsivo e acessibilidade |
+| **Dados & nuvem** | PostgreSQL, Microsoft SQL Server, Prisma, MySQL, Supabase, Firebase, Docker e deploy em nuvem |
+| **Práticas de engenharia** | Git/GitHub, Postman, Scrum/Kanban, modelagem relacional, Stored Procedures e testes automatizados |
 
 <details>
 <summary><strong>English version</strong></summary>
 
 ### About
 
-I am a full-stack developer combining software engineering with **8+ years of business experience**. I design and deliver end-to-end products, translating real needs into clear interfaces, reliable APIs and architectures built to evolve.
+Junior Full-Stack Developer in career transition, holding a technical degree in **Systems Development from SENAI** and pursuing a **B.Sc. in Computer Science at Universidade Anhembi Morumbi**. Hands-on experience building complete applications from relational databases to frontend interfaces.
 
-- **Current focus:** full-stack products, software architecture and applied AI.
-- **Education:** B.Sc. in Computer Science at Universidade Anhembi Morumbi, ongoing, and a Systems Development technical degree from SENAI.
-- **Strengths:** product thinking, cross-functional communication and ownership from problem discovery to delivery.
+My main differentiator is **9 years of professional sales and commercial experience**, giving me business vision, effective communication and a direct focus on solving real user needs.
 
-### Flagship case — CogniVault
-
-CogniVault is an intelligent technical catalog for parts operations. It centralizes private catalogs, structured parts data and operational knowledge with role-based access, asynchronous processing and evidence-grounded AI answers.
-
-`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `RabbitMQ` `Supabase` `AI`
-
-[Open application](https://cognivault-murex.vercel.app) · [View source](https://github.com/MatheusFranciscoLS/CogniVault) · [Full portfolio](https://matheusfranciscols.github.io/)
-
-### Selected products
-
-- **BusinessFlow:** small-business SaaS for CRM, scheduling, finance, reports and operational insights.
-- **Industrial IoT Platform:** real-time industrial telemetry using microservices, messaging and WebSockets.
-- **Solidarity Economy:** marketplace connecting local producers and consumers.
-- **FURIA Fan Chat:** real-time community experience with chat, schedules, scores and engagement features.
+### Core Stack & Highlights
+- **Stack:** Java, Spring Boot, React, Node.js, TypeScript, PostgreSQL, RabbitMQ
+- **Flagship Project:** [CogniVault](https://cognivault-murex.vercel.app) (Technical catalog with AI RAG and async processing)
+- **Certifications:** Harvard CS50 (70h), Java Programming SENAI (120h), Database Programming SENAI (120h)
 
 </details>
 
 ---
 
 <div align="center">
-
-Disponível para oportunidades e colaborações em desenvolvimento full-stack.
-
-[Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/matheusfranciscols) · [Enviar e-mail](mailto:matheusf.ls@hotmail.com)
-
+  <sub>Projetado e desenvolvido por Matheus Francisco • Limeira, SP</sub>
 </div>
-
