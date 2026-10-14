@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Matheus Francisco, desenvolvedor full-stack júnior" width="100%">
+
 <div align="center">
 
 # Matheus Francisco Lucchetti da Silva
