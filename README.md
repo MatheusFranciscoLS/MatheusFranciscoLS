@@ -21,11 +21,11 @@ Trago como diferencial **9 anos de vivência profissional na área comercial e d
   <img src="https://matheusfranciscols.github.io/assets/cognivault-login.webp" alt="Tela de login do CogniVault" width="100%">
 </a>
 
-**Catálogo técnico inteligente para operação de peças.** O CogniVault centraliza catálogos privados, peças e conhecimento operacional, combinando controle de acesso por função, processamento assíncrono com filas e respostas de IA baseadas estritamente em evidências.
+**Catálogo técnico e orçamento de balcão para uma revenda de máquinas e peças.** O atendente digita um código, uma peça ou um modelo e sai com preço, posição na vista explodida e orçamento pronto em PDF e WhatsApp. A regra central: nunca chutar o código. Código digitado devolve só o exato e a substituição oficial, e a IA só escolhe dentro de uma lista fechada. Mais de 1.300 testes automatizados e infraestrutura em planos gratuitos.
 
-`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `RabbitMQ` `Supabase` `IA RAG`
+`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `RabbitMQ` `Playwright` `Vitest`
 
-[Abrir aplicação](https://cognivault-murex.vercel.app) · [Ver código no GitHub](https://github.com/MatheusFranciscoLS/CogniVault)
+[Abrir aplicação](https://cognivault-murex.vercel.app) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-cognivault/) · *projeto de trabalho, código privado*
 
 ## Projetos Selecionados com Deploy
 
@@ -68,7 +68,7 @@ My main differentiator is **9 years of professional sales and commercial experie
 
 ### Core Stack & Highlights
 - **Stack:** Java, Spring Boot, React, Node.js, TypeScript, PostgreSQL, RabbitMQ
-- **Flagship Project:** [CogniVault](https://cognivault-murex.vercel.app) (Technical catalog with AI RAG and async processing)
+- **Flagship Project:** [CogniVault](https://matheusfranciscols.github.io/estudo-de-caso-cognivault/en/) (parts catalog and counter quoting system for a machinery dealer; exact-code search, 1,300+ automated tests; private work project)
 - **Certifications:** Harvard CS50 (70h), Java Programming SENAI (120h), Database Programming SENAI (120h)
 
 </details>
