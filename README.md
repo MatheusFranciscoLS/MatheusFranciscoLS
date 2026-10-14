@@ -36,7 +36,7 @@ Trago como diferencial **9 anos de vivência profissional na área comercial e d
 | **Economia Solidária** | Marketplace do TCC SENAI conectando produtores locais e consumidores. | React, Node.js, Firebase | [Aplicação](https://economia-solidaria-frontend.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/ProjetoFinal) |
 | **FURIA Fan Chat** | Hub interativo com chat em tempo real, mural e placares para processo seletivo FURIA. | React, Vite, Firebase | [Aplicação](https://challenge1-furia.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/Challenge1Furia) |
 
-> Conheça todos os **25 projetos catalogados**, com filtros e busca, no meu [portfólio completo](https://matheusfranciscols.github.io/#projetos).
+> Veja o [portfólio completo](https://matheusfranciscols.github.io/#projetos), com o estudo de caso do CogniVault e os demais projetos.
 
 ## Formações & Certificações Relevantes
 
