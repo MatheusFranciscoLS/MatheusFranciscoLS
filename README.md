@@ -7,6 +7,8 @@
 
 [🌐 Portfólio](https://matheusfranciscols.github.io/) · [💼 LinkedIn](https://www.linkedin.com/in/matheusfranciscols) · [✉️ E-mail](mailto:matheusf.ls@hotmail.com)
 
+🟢 **Aberto a vagas de desenvolvedor full-stack júnior.**
+
 </div>
 
 ## Sobre Mim
@@ -18,10 +20,10 @@ Trago como diferencial **9 anos de vivência profissional na área comercial e d
 ## Case Principal — CogniVault
 
 <a href="https://cognivault-murex.vercel.app">
-  <img src="https://matheusfranciscols.github.io/assets/cognivault-login.webp" alt="Tela de login do CogniVault" width="100%">
+  <img src="https://matheusfranciscols.github.io/assets/cognivault-busca.png" alt="Tela de busca do CogniVault com resultado por código de peça, preço e posição no desenho" width="100%">
 </a>
 
-**Catálogo técnico e orçamento de balcão para uma revenda de máquinas e peças.** O atendente digita um código, uma peça ou um modelo e sai com preço, posição na vista explodida e orçamento pronto em PDF e WhatsApp. A regra central: nunca chutar o código. Código digitado devolve só o exato e a substituição oficial, e a IA só escolhe dentro de uma lista fechada. Mais de 1.300 testes automatizados e infraestrutura em planos gratuitos.
+**Catálogo técnico e orçamento de balcão para uma revenda autorizada Husqvarna.** Já está no ar. O atendente digita um código, uma peça ou um modelo e sai com preço, posição na vista explodida e orçamento pronto em PDF e WhatsApp. A regra central: nunca chutar o código. Código digitado devolve só o exato e a substituição oficial, e a IA só escolhe dentro de uma lista fechada. Mais de 1.300 testes automatizados e infraestrutura em planos gratuitos.
 
 `React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `RabbitMQ` `Playwright` `Vitest`
 
@@ -61,6 +63,8 @@ Trago como diferencial **9 anos de vivência profissional na área comercial e d
 <summary><strong>English version</strong></summary>
 
 ### About
+
+🟢 **Open to junior full-stack developer roles.**
 
 Junior Full-Stack Developer in career transition, holding a technical degree in **Systems Development from SENAI** and pursuing a **B.Sc. in Computer Science at Universidade Anhembi Morumbi**. Hands-on experience building complete applications from relational databases to frontend interfaces.
 
