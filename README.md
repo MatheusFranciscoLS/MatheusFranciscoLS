@@ -17,28 +17,17 @@ Desenvolvedor full-stack em transição de carreira, com formação técnica em 
 
 Trago como diferencial **9 anos de vivência profissional na área comercial e de vendas**, o que me proporciona visão clara de processos de negócio, comunicação assertiva e foco em construir software que resolve as dores reais do cliente.
 
-## Case Principal — CogniVault
-
-<a href="https://cognivault-murex.vercel.app">
-  <img src="https://matheusfranciscols.github.io/assets/cognivault-busca.png" alt="Tela de busca do CogniVault com resultado por código de peça, preço e posição no desenho" width="100%">
-</a>
-
-**Catálogo técnico e orçamento de balcão para uma revenda autorizada Husqvarna.** Já está no ar. O atendente digita um código, uma peça ou um modelo e sai com preço, posição na vista explodida e orçamento pronto em PDF e WhatsApp. A regra central: nunca chutar o código. Código digitado devolve só o exato e a substituição oficial, e a IA só escolhe dentro de uma lista fechada. Mais de 1.300 testes automatizados e infraestrutura em planos gratuitos.
-
-`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `RabbitMQ` `Playwright` `Vitest`
-
-[Abrir aplicação](https://cognivault-murex.vercel.app) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-cognivault/) · *projeto de trabalho, código privado*
-
-## Projetos Selecionados com Deploy
+## Projetos
 
 | Projeto | O que resolve | Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **CogniVault** | Catálogo técnico e orçamento de balcão de uma revenda autorizada Husqvarna. Projeto de trabalho, já no ar. | React, TypeScript, Node.js, PostgreSQL, RabbitMQ | [Aplicação](https://cognivault-murex.vercel.app) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-cognivault/) · *código privado* |
 | **BusinessFlow** | SaaS completo para gestão de pequenos negócios (CRM, financeiro, agenda e relatórios). | React, Node.js, PostgreSQL, Prisma | [Aplicação](https://flowbusiness.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/BusinessFlow) |
 | **Plataforma IoT Industrial** | Telemetria industrial em tempo real com microsserviços, mensageria e WebSockets. | Java, Spring Boot, React, RabbitMQ, WebSockets | [Aplicação](https://plataforma-iot-industrial.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) |
 | **Economia Solidária** | Marketplace do TCC SENAI conectando produtores locais e consumidores. | React, Node.js, Firebase | [Aplicação](https://economia-solidaria-frontend.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/ProjetoFinal) |
 | **FURIA Fan Chat** | Hub interativo com chat em tempo real, mural e placares para processo seletivo FURIA. | React, Vite, Firebase | [Aplicação](https://challenge1-furia.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/Challenge1Furia) |
 
-> Veja o [portfólio completo](https://matheusfranciscols.github.io/#projetos), com o estudo de caso do CogniVault e os demais projetos.
+> Veja o [portfólio completo](https://matheusfranciscols.github.io/), com a minha trajetória, os projetos e o currículo.
 
 ## Formações & Certificações Relevantes
 
