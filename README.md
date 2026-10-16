@@ -61,7 +61,7 @@ My main differentiator is **9 years of professional sales and commercial experie
 
 ### Core Stack & Highlights
 - **Stack:** Java, Spring Boot, React, Node.js, TypeScript, PostgreSQL, RabbitMQ
-- **Flagship Project:** [CogniVault](https://matheusfranciscols.github.io/estudo-de-caso-cognivault/en/) (parts catalog and counter quoting system for a machinery dealer; exact-code search, 1,300+ automated tests; private work project)
+- **Projects:** four complete projects, all live: [CogniVault](https://matheusfranciscols.github.io/estudo-de-caso-cognivault/en/) (parts catalog and quoting for a machinery dealer; private work project), BusinessFlow (small-business SaaS), Industrial IoT Platform (Java, Spring Boot, RabbitMQ) and Solidarity Economy (SENAI capstone)
 - **Certifications:** Harvard CS50 (70h), Java Programming SENAI (120h), Database Programming SENAI (120h)
 
 </details>
