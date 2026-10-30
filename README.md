@@ -21,7 +21,7 @@ Trago como diferencial **9 anos de vivência profissional na área comercial e d
 
 | Projeto | O que resolve | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **CogniVault** | Catálogo técnico e orçamento de balcão de uma revenda autorizada Husqvarna. Projeto de trabalho, já no ar. | React, TypeScript, Node.js, PostgreSQL, RabbitMQ | [Aplicação](https://cognivault-murex.vercel.app) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-cognivault/) · *código privado* |
+| **CogniVault** | Catálogo técnico e orçamento de balcão de uma revenda autorizada Husqvarna. Projeto de trabalho, já no ar. | React, TypeScript, Node.js, PostgreSQL, RabbitMQ | [Aplicação](https://vardao-central.vercel.app) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-cognivault/) · *código privado* |
 | **BusinessFlow** | SaaS completo para gestão de pequenos negócios (CRM, financeiro, agenda e relatórios). | React, Node.js, PostgreSQL, Prisma | [Aplicação](https://flowbusiness.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/BusinessFlow) |
 | **Plataforma IoT Industrial** | Telemetria industrial em tempo real com microsserviços, mensageria e WebSockets. | Java, Spring Boot, React, RabbitMQ, WebSockets | [Aplicação](https://plataforma-iot-industrial.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) |
 | **Economia Solidária** | Marketplace do TCC SENAI conectando produtores locais e consumidores. | React, Node.js, Firebase | [Aplicação](https://economia-solidaria-frontend.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/ProjetoFinal) |
