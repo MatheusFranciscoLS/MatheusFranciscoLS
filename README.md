@@ -21,7 +21,7 @@ Trago como diferencial **9 anos de vivência profissional na área comercial e d
 
 | Projeto | O que resolve | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **CogniVault** | Catálogo técnico e orçamento de balcão de uma revenda autorizada Husqvarna. Projeto de trabalho, já no ar. | React, TypeScript, Node.js, PostgreSQL, RabbitMQ | [Aplicação](https://vardao-central.vercel.app) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-cognivault/) · *código privado* |
+| **Vardão Central** (antes CogniVault) | O sistema que a loja onde trabalho, revenda autorizada Husqvarna, usa todo dia: balcão, CRM, financeiro e estoque. Migração do ERP antigo conferida ao centavo. | React, TypeScript, Node.js, PostgreSQL, RabbitMQ | [Sistema no ar](https://vardao-central.vercel.app) (com login) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/) · *código privado* |
 | **BusinessFlow** | SaaS completo para gestão de pequenos negócios (CRM, financeiro, agenda e relatórios). | React, Node.js, PostgreSQL, Prisma | [Aplicação](https://flowbusiness.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/BusinessFlow) |
 | **Plataforma IoT Industrial** | Telemetria industrial em tempo real com microsserviços, mensageria e WebSockets. | Java, Spring Boot, React, RabbitMQ, WebSockets | [Aplicação](https://plataforma-iot-industrial.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) |
 | **Economia Solidária** | Marketplace do TCC SENAI conectando produtores locais e consumidores. | React, Node.js, Firebase | [Aplicação](https://economia-solidaria-frontend.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/ProjetoFinal) |
@@ -61,7 +61,7 @@ My main differentiator is **9 years of professional sales and commercial experie
 
 ### Core Stack & Highlights
 - **Stack:** Java, Spring Boot, React, Node.js, TypeScript, PostgreSQL, RabbitMQ
-- **Projects:** four complete projects, all live: [CogniVault](https://matheusfranciscols.github.io/estudo-de-caso-cognivault/en/) (parts catalog and quoting for a machinery dealer; private work project), BusinessFlow (small-business SaaS), Industrial IoT Platform (Java, Spring Boot, RabbitMQ) and Solidarity Economy (SENAI capstone)
+- **Projects:** four complete projects, all live: [Vardão Central](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/en/) (the system the store where I work uses every day: counter, CRM, finance and inventory; private work project), BusinessFlow (small-business SaaS), Industrial IoT Platform (Java, Spring Boot, RabbitMQ) and Solidarity Economy (SENAI capstone)
 - **Certifications:** Harvard CS50 (70h), Java Programming SENAI (120h), Database Programming SENAI (120h)
 
 </details>
