@@ -22,6 +22,7 @@ Trago como diferencial **9 anos de vivência profissional na área comercial e d
 | Projeto | O que resolve | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Vardão Central** (antes CogniVault) | O sistema que a loja onde trabalho, revenda autorizada Husqvarna, usa todo dia: balcão, CRM, financeiro e estoque. Migração do ERP antigo conferida ao centavo. | React, TypeScript, Node.js, PostgreSQL, RabbitMQ | [Sistema no ar](https://vardao-central.vercel.app) (com login) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/) · *código privado* |
+| **Site da Vardão Máquinas** | O site público da empresa, que complementa o Vardão Central: catálogo com cerca de 200 páginas, otimizado para busca e com contato direto pelo WhatsApp. | Next.js, React, TypeScript, Tailwind CSS | [Site no ar](https://vardaomaquinas.com.br) |
 | **BusinessFlow** | SaaS completo para gestão de pequenos negócios (CRM, financeiro, agenda e relatórios). | React, Node.js, PostgreSQL, Prisma | [Aplicação](https://flowbusiness.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/BusinessFlow) |
 | **Plataforma IoT Industrial** | Telemetria industrial em tempo real com microsserviços, mensageria e WebSockets. | Java, Spring Boot, React, RabbitMQ, WebSockets | [Aplicação](https://plataforma-iot-industrial.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) |
 | **Economia Solidária** | Marketplace do TCC SENAI conectando produtores locais e consumidores. | React, Node.js, Firebase | [Aplicação](https://economia-solidaria-frontend.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/ProjetoFinal) |
@@ -61,7 +62,7 @@ My main differentiator is **9 years of professional sales and commercial experie
 
 ### Core Stack & Highlights
 - **Stack:** Java, Spring Boot, React, Node.js, TypeScript, PostgreSQL, RabbitMQ
-- **Projects:** four complete projects, all live: [Vardão Central](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/en/) (the system the store where I work uses every day: counter, CRM, finance and inventory; private work project), BusinessFlow (small-business SaaS), Industrial IoT Platform (Java, Spring Boot, RabbitMQ) and Solidarity Economy (SENAI capstone)
+- **Projects:** five complete projects, all live: [Vardão Central](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/en/) (the system the store where I work uses every day: counter, CRM, finance and inventory; private work project), [Vardão Máquinas website](https://vardaomaquinas.com.br) (the company’s public site: a catalog of about 200 pages, optimized for search), BusinessFlow (small-business SaaS), Industrial IoT Platform (Java, Spring Boot, RabbitMQ) and Solidarity Economy (SENAI capstone)
 - **Certifications:** Harvard CS50 (70h), Java Programming SENAI (120h), Database Programming SENAI (120h)
 
 </details>
