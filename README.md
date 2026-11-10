@@ -7,63 +7,75 @@
 
 [🌐 Portfólio](https://matheusfranciscols.github.io/) · [💼 LinkedIn](https://www.linkedin.com/in/matheusfranciscols) · [✉️ E-mail](mailto:matheusf.ls@hotmail.com)
 
-🟢 **Aberto a vagas de desenvolvedor full-stack júnior.**
+🟢 **Aberto a vagas de desenvolvedor full-stack júnior e oportunidades de entrada em TI.**
 
 </div>
 
 ## Sobre Mim
 
-Desenvolvedor full-stack em transição de carreira, com formação técnica em **Desenvolvimento de Sistemas pelo SENAI** e cursando **Ciência da Computação na Universidade Anhembi Morumbi**. Experiência prática na construção de aplicações robustas e completas, do banco de dados relacional à interface com o usuário.
+Desenvolvedor full-stack júnior em transição de carreira, com formação técnica em **Desenvolvimento de Sistemas pelo SENAI** e cursando **Ciência da Computação na Universidade Anhembi Morumbi**. Experiência prática na construção de aplicações completas, do banco de dados relacional à interface com o usuário.
 
-Trago como diferencial **9 anos de vivência profissional na área comercial e de vendas**, o que me proporciona visão clara de processos de negócio, comunicação assertiva e foco em construir software que resolve as dores reais do cliente.
+Trago como diferencial **9 anos de experiência profissional na área comercial e de vendas**, com visão de processos de negócio, comunicação e foco em construir software que resolve problemas reais.
 
 ## Projetos
 
 | Projeto | O que resolve | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Vardão Central** (antes CogniVault) | O sistema que a loja onde trabalho, revenda autorizada Husqvarna, usa todo dia: balcão, CRM, financeiro e estoque. Migração do ERP antigo conferida ao centavo. | React, TypeScript, Node.js, PostgreSQL, RabbitMQ | [Sistema no ar](https://vardao-central.vercel.app) (com login) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/) · *código privado* |
-| **Site da Vardão Máquinas** | O site institucional da Vardão Máquinas (A Vardão, assistência técnica, linhas de produtos e contato), feito para o cliente achar a loja no Google e chegar ao vendedor. Cerca de 200 páginas e contato direto pelo WhatsApp. | Next.js, React, TypeScript, Tailwind CSS | [Site no ar](https://vardaomaquinas.com.br) |
-| **BusinessFlow** | SaaS completo para gestão de pequenos negócios (CRM, financeiro, agenda e relatórios). | React, Node.js, PostgreSQL, Prisma | [Aplicação](https://flowbusiness.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/BusinessFlow) |
-| **Plataforma IoT Industrial** | Telemetria industrial em tempo real com microsserviços, mensageria e WebSockets. | Java, Spring Boot, React, RabbitMQ, WebSockets | [Aplicação](https://plataforma-iot-industrial.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) |
-| **Economia Solidária** | Marketplace do TCC SENAI conectando produtores locais e consumidores. | React, Node.js, Firebase | [Aplicação](https://economia-solidaria-frontend.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/ProjetoFinal) |
-| **FURIA Fan Chat** | Hub interativo com chat em tempo real, mural e placares para processo seletivo FURIA. | React, Vite, Firebase | [Aplicação](https://challenge1-furia.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/Challenge1Furia) |
+| **Vardão Central** | Sistema usado diariamente na Vardão Máquinas, revenda autorizada Husqvarna: balcão, CRM, financeiro e estoque. A migração do ERP antigo foi conferida por 1.107 comparações automáticas, sem diferença superior a R$ 0,01. | React, TypeScript, Node.js, PostgreSQL, Prisma, RabbitMQ | [Sistema](https://vardao-central.vercel.app) (acesso restrito) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/) · *código privado* |
+| **Site da Vardão Máquinas** | Site institucional da empresa, com informações da loja, assistência técnica, linhas de produtos e contato. Cerca de 200 páginas geradas a partir de dados. | Next.js, React, TypeScript, Tailwind CSS | [Site](https://vardaomaquinas.com.br) |
+| **BusinessFlow** | Aplicação SaaS para gestão de pequenos negócios, com CRM, financeiro, agenda e relatórios. | React, Node.js, Express, PostgreSQL, Prisma | [Aplicação](https://flowbusiness.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/BusinessFlow) |
+| **Plataforma IoT Industrial** | Projeto de telemetria industrial com microsserviços, mensageria e comunicação em tempo real. | Java, Spring Boot, React, RabbitMQ, WebSockets | [Aplicação](https://plataforma-iot-industrial.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) |
+| **Economia Solidária** | Projeto de conclusão do SENAI, desenvolvido em equipe para conectar produtores locais e consumidores. Minha contribuição principal foi no front-end e na integração com a API. | React, Node.js, Firebase | [Aplicação](https://economia-solidaria-frontend.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/ProjetoFinal) |
 
-> Veja o [portfólio completo](https://matheusfranciscols.github.io/), com a minha trajetória, os projetos e o currículo.
+> Veja o [portfólio completo](https://matheusfranciscols.github.io/), com trajetória, projetos, estudos de caso e currículo.
 
-## Formações & Certificações Relevantes
+## Formação e cursos
 
-- 🎓 **Bacharelado em Ciência da Computação** — Universidade Anhembi Morumbi *(Conclusão prevista: 10/2028)*
-- 🛠️ **Técnico em Desenvolvimento de Sistemas** — SENAI *(Concluído: 2024)*
-- 🏛️ **Ciência da Computação (CS50 de Harvard)** — Fundação Estudar • 70h (2025)
+- 🎓 **Ciência da Computação** — Universidade Anhembi Morumbi *(2024–2028, em andamento)*
+- 🛠️ **Técnico em Desenvolvimento de Sistemas** — SENAI *(concluído em 2024)*
+- 🏛️ **Ciência da Computação de Harvard no Brasil** — Fundação Estudar • 70h (2025)
 - ☕ **Programação Java** — SENAI • 120h (2022)
-- 🗄️ **Programação de Banco de Dados (SQL Server / T-SQL)** — SENAI • 120h (2024)
-- ☁️ **AWS Cloud Practitioner Foundational** — SENAI • 40h (2022)
+- 🗄️ **Programação de Banco de Dados** — SENAI • 120h (2024)
+- ☁️ **AWS Academy Cloud Foundations** — AWS Academy • (2022)
 - ☁️ **AI-900: Fundamentos de IA no Azure** — Fundação Bradesco • 16h (2025)
 
-## Competências Técnicas
+## Competências técnicas
 
 | Área | Tecnologias e práticas |
 | :--- | :--- |
-| **Back-end & arquitetura** | Java, Spring Boot, Spring Security, Node.js, Express, TypeScript, APIs REST, mensageria com RabbitMQ |
-| **Front-end** | React, TypeScript, JavaScript, Vite, HTML5, CSS3, design responsivo e acessibilidade |
-| **Dados & nuvem** | PostgreSQL, Microsoft SQL Server, Prisma, MySQL, Supabase, Firebase, Docker e deploy em nuvem |
-| **Práticas de engenharia** | Git/GitHub, Postman, Scrum/Kanban, modelagem relacional, testes automatizados |
+| **Back-end** | Java, Spring Boot, Spring Security, Node.js, Express, TypeScript, APIs REST, RabbitMQ |
+| **Front-end** | React, TypeScript, JavaScript, Vite, HTML, CSS, Tailwind CSS |
+| **Dados e infraestrutura** | PostgreSQL, MySQL, Prisma, Supabase, Firebase, Docker |
+| **Engenharia** | Git/GitHub, testes automatizados, CI, Postman, Scrum e Kanban |
 
 <details>
 <summary><strong>English version</strong></summary>
 
 ### About
 
-🟢 **Open to junior full-stack developer roles.**
+🟢 **Open to junior full-stack developer roles and entry-level IT opportunities.**
 
-Junior Full-Stack Developer in career transition, holding a technical degree in **Systems Development from SENAI** and pursuing a **B.Sc. in Computer Science at Universidade Anhembi Morumbi**. Hands-on experience building complete applications from relational databases to frontend interfaces.
+Junior Full-Stack Developer in career transition, holding a technical degree in **Systems Development from SENAI** and pursuing a **B.Sc. in Computer Science at Universidade Anhembi Morumbi**. Hands-on experience building complete applications, from relational databases to frontend interfaces.
 
-My main differentiator is **9 years of professional sales and commercial experience**, giving me business vision, effective communication and a direct focus on solving real user needs.
+My differentiator is **9 years of professional commercial and sales experience**, bringing business-process awareness, communication and a focus on solving real problems through software.
 
-### Core Stack & Highlights
-- **Stack:** Java, Spring Boot, React, Node.js, TypeScript, PostgreSQL, RabbitMQ
-- **Projects:** five complete projects, all live: [Vardão Central](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/en/) (the system the store where I work uses every day: counter, CRM, finance and inventory; private work project), [Vardão Máquinas website](https://vardaomaquinas.com.br) (the company’s institutional site: the company, the service workshop, the product lines and contact, built so customers find the store on Google and reach a salesperson; about 200 pages), BusinessFlow (small-business SaaS), Industrial IoT Platform (Java, Spring Boot, RabbitMQ) and Solidarity Economy (SENAI capstone)
-- **Certifications:** Harvard CS50 (70h), Java Programming SENAI (120h), Database Programming SENAI (120h)
+### Projects
+
+- **Vardão Central:** the daily-use business system at Vardão Máquinas, an authorized Husqvarna dealer, covering counter sales, CRM, finance and inventory. The legacy ERP migration was checked through 1,107 automated comparisons, with no difference above BRL 0.01. Private code; [public case study](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/en/).
+- **Vardão Máquinas website:** the company's institutional website, with around 200 data-driven pages. [Visit](https://vardaomaquinas.com.br).
+- **BusinessFlow:** a small-business management SaaS. [App](https://flowbusiness.vercel.app) · [Code](https://github.com/MatheusFranciscoLS/BusinessFlow).
+- **Industrial IoT Platform:** industrial telemetry project using Java, Spring Boot, messaging and WebSockets. [App](https://plataforma-iot-industrial.vercel.app) · [Code](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial).
+- **Solidarity Economy:** SENAI capstone developed as a team; my main contribution was the React frontend and API integration. [App](https://economia-solidaria-frontend.vercel.app) · [Code](https://github.com/MatheusFranciscoLS/ProjetoFinal).
+
+### Education and courses
+
+- **B.Sc. in Computer Science** — Universidade Anhembi Morumbi *(2024–2028, ongoing)*
+- **Technical Degree in Systems Development** — SENAI *(completed 2024)*
+- **Harvard Computer Science in Brazil** — Fundação Estudar • 70h (2025)
+- **Java Programming** — SENAI • 120h (2022)
+- **Database Programming** — SENAI • 120h (2024)
+- **AWS Academy Cloud Foundations** — AWS Academy (2022)
+- **AI-900: Azure AI Fundamentals** — Fundação Bradesco • 16h (2025)
 
 </details>
 
