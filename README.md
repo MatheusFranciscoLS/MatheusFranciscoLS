@@ -46,7 +46,8 @@ Trago como diferencial **9 anos de experiência profissional na área comercial 
 | **Back-end** | Java, Spring Boot, Spring Security, Node.js, Express, TypeScript, APIs REST, RabbitMQ |
 | **Front-end** | React, TypeScript, JavaScript, Vite, HTML, CSS, Tailwind CSS |
 | **Dados e infraestrutura** | PostgreSQL, MySQL, Prisma, Supabase, Firebase, Docker |
-| **Engenharia** | Git/GitHub, testes automatizados, CI, Postman, Scrum e Kanban |
+| **Engenharia** | Git/GitHub, testes automatizados (Vitest, Playwright, JUnit, Testcontainers), GitHub Actions (CI) |
+| **Conhecimentos básicos** | Postman, Scrum e Kanban |
 
 <details>
 <summary><strong>English version</strong></summary>
