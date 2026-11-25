@@ -21,14 +21,23 @@ Trago como diferencial **9 anos de experiência profissional na área comercial 
 
 | Projeto | O que resolve | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Vardão Central** | Sistema usado diariamente na Vardão Máquinas, revenda autorizada Husqvarna: balcão, CRM, financeiro e estoque. As regras do ERP antigo foram reproduzidas no sistema e cobertas por testes automatizados. Desenvolvido sozinho, por iniciativa própria e em paralelo ao meu cargo de Vendedor. | React, TypeScript, Node.js, PostgreSQL, Prisma, RabbitMQ | [Sistema](https://vardao-central.vercel.app) (acesso restrito) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/) · *código privado* |
-| **Site da Vardão Máquinas** | Site institucional da empresa, com informações da loja, assistência técnica, linhas de produtos e contato. Páginas geradas a partir de dados. Desenvolvido por iniciativa própria. | Next.js, React, TypeScript, Tailwind CSS | [Site](https://vardaomaquinas.com.br) |
-| **Pelo & Ponto** | Agenda e fila de atendimento para estúdios de banho e tosa: o tutor agenda com o pet certo e o estúdio vê quem chegou, quem está no banho e quem já pode ser retirado. Dois pedidos para o mesmo horário nunca viram duas reservas, porque a trava fica no banco (PostgreSQL). Construído com harness engineering: eu defino as regras e os critérios de aceite, e agentes de IA implementam e revisam sob a minha especificação e aprovação. Demonstração pública com dados fictícios. | Java 21, Spring Boot, Spring Security, React, TypeScript, PostgreSQL, Playwright | [Aplicação](https://peloeponto.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/peloeponto) |
+| **Vardão Central** | Sistema usado diariamente na Vardão Máquinas, revenda autorizada Husqvarna: balcão, CRM, financeiro e estoque. As regras do ERP antigo foram reproduzidas no sistema e cobertas por testes automatizados. Idealizado e conduzido por mim, por iniciativa própria e em paralelo ao meu cargo de Vendedor, com implementação por agentes de IA sob a minha especificação e aprovação. | React, TypeScript, Node.js, PostgreSQL, Prisma, RabbitMQ | [Sistema](https://vardao-central.vercel.app) (acesso restrito) · [Estudo de caso](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/) · *código privado* |
+| **Site da Vardão Máquinas** | Site institucional da empresa, com informações da loja, assistência técnica, linhas de produtos e contato. Páginas geradas a partir de dados. Criado por iniciativa própria. | Next.js, React, TypeScript, Tailwind CSS | [Site](https://vardaomaquinas.com.br) |
+| **Pelo & Ponto** | **Projeto de portfólio.** Agenda e fila de atendimento para estúdios de banho e tosa: o tutor agenda com o pet certo e o estúdio vê quem chegou, quem está no banho e quem já pode ser retirado. Reservas sobrepostas são impedidas no próprio PostgreSQL (restrição de exclusão sobre intervalos de tempo), validadas por teste de integração com requisições simultâneas. Idealizado e especificado por mim, com implementação por agentes de IA sob meus requisitos, critérios de aceite e aprovação. Demonstração pública com dados fictícios, sem usuários reais. | Java 21, Spring Boot, Spring Security, React, TypeScript, PostgreSQL, Playwright | [Aplicação](https://peloeponto.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/peloeponto) |
 | **BusinessFlow** | SaaS multiempresa para escritórios de contabilidade: clientes, financeiro com conciliação OFX, DRE, documentos, prazos, auditoria e portal do cliente. Demonstração pública com dados fictícios. | React, Node.js, Express, PostgreSQL, Prisma | [Aplicação](https://flowbusiness.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/BusinessFlow) |
-| **Plataforma IoT Industrial** | Projeto de telemetria industrial com sensores simulados, microsserviços, mensageria e comunicação em tempo real. | Java, Spring Boot, React, RabbitMQ, WebSockets, Python (simulador) | [Aplicação](https://plataforma-iot-industrial.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) |
+| **Plataforma IoT Industrial** | Projeto de telemetria industrial com sensores simulados: arquitetura distribuída em quatro serviços, mensageria e comunicação em tempo real. | Java, Spring Boot, React, RabbitMQ, WebSockets, Python (simulador) | [Aplicação](https://plataforma-iot-industrial.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial) |
 | **Economia Solidária** | Projeto de conclusão do SENAI, desenvolvido em equipe para conectar produtores locais e consumidores. Minha contribuição principal foi no front-end e na integração com a API. | React, Node.js, Firebase | [Aplicação](https://economia-solidaria-frontend.vercel.app) · [Código](https://github.com/MatheusFranciscoLS/ProjetoFinal) |
 
 > Veja o [portfólio completo](https://matheusfranciscols.github.io/), com trajetória, projetos, estudos de caso e currículo.
+
+## Como trabalho com IA
+
+Uso agentes de IA no desenvolvimento e declaro isso em cada projeto. O método se chama *harness engineering*, e na prática é assim:
+
+- **Eu especifico:** produto, regras de negócio e critérios de aceite vêm antes de qualquer código.
+- **Agentes implementam e revisam:** o Claude Code implementa, e o ChatGPT faz a revisão independente de cada mudança.
+- **Testes e CI são o portão:** no Pelo & Ponto, nada entra na `main` sem testes e verificações automáticas passando.
+- **Eu respondo pelas decisões:** recebo um resumo de cada entrega para poder explicar e defender as escolhas técnicas.
 
 ## Formação e cursos
 
@@ -51,7 +60,7 @@ Trago como diferencial **9 anos de experiência profissional na área comercial 
 | **Back-end** | Java, Spring Boot, Spring Security, Node.js, Express, TypeScript, APIs REST, RabbitMQ |
 | **Front-end** | React, TypeScript, JavaScript, Vite, HTML, CSS, Tailwind CSS |
 | **Dados e infraestrutura** | PostgreSQL, Flyway, MySQL, Prisma, Supabase (PostgreSQL e Storage), Firebase, Docker |
-| **Engenharia** | Git/GitHub, testes automatizados (Vitest, Playwright, JUnit, Testcontainers), GitHub Actions (CI) |
+| **Engenharia** | Git/GitHub, testes automatizados (Vitest, Playwright, JUnit, Testcontainers), GitHub Actions (CI), desenvolvimento assistido por IA (Claude Code) com especificação de requisitos e validação por testes e CI |
 | **Conhecimentos básicos** | Postman, Scrum e Kanban |
 
 <details>
@@ -67,12 +76,21 @@ My differentiator is **9 years of professional commercial and sales experience**
 
 ### Projects
 
-- **Vardão Central:** the daily-use business system at Vardão Máquinas, an authorized Husqvarna dealer, covering counter sales, CRM, finance and inventory. The legacy ERP's rules were reproduced in the system and covered by automated tests. Built solo, on my own initiative and alongside my sales role. Private code; [public case study](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/en/).
-- **Vardão Máquinas website:** the company's institutional website, with data-driven pages, built on my own initiative. [Visit](https://vardaomaquinas.com.br).
-- **Pelo & Ponto:** scheduling and attendance queue for pet grooming studios: the customer books with the right pet and the studio sees who arrived, who is being groomed and who is ready for pickup. Two requests for the same time slot never become two bookings, because the guard lives in the database (PostgreSQL). Built with harness engineering: I define the rules and acceptance criteria, and AI agents implement and review under my specification and approval. Public demo with fictional data. Java 21, Spring Boot, React, PostgreSQL. [App](https://peloeponto.vercel.app) · [Code](https://github.com/MatheusFranciscoLS/peloeponto).
+- **Vardão Central:** the daily-use business system at Vardão Máquinas, an authorized Husqvarna dealer, covering counter sales, CRM, finance and inventory. The legacy ERP's rules were reproduced in the system and covered by automated tests. Conceived and led by me, on my own initiative and alongside my sales role, with implementation by AI agents under my specification and approval. Private code; [public case study](https://matheusfranciscols.github.io/estudo-de-caso-vardao-central/en/).
+- **Vardão Máquinas website:** the company's institutional website, with data-driven pages, created on my own initiative. [Visit](https://vardaomaquinas.com.br).
+- **Pelo & Ponto (portfolio project):** scheduling and attendance queue for pet grooming studios: the customer books with the right pet and the studio sees who arrived, who is being groomed and who is ready for pickup. Overlapping bookings are prevented in PostgreSQL itself (an exclusion constraint on time ranges), validated by an integration test with concurrent requests. Conceived and specified by me, with implementation by AI agents under my requirements, acceptance criteria and approval. Public demo with fictional data, no real users. Java 21, Spring Boot, React, PostgreSQL. [App](https://peloeponto.vercel.app) · [Code](https://github.com/MatheusFranciscoLS/peloeponto).
 - **BusinessFlow:** a multi-company SaaS for accounting firms: clients, finance with OFX reconciliation, income statement, documents, deadlines, audit trail and a client portal. Public demo with fictional data. [App](https://flowbusiness.vercel.app) · [Code](https://github.com/MatheusFranciscoLS/BusinessFlow).
 - **Industrial IoT Platform:** industrial telemetry project with simulated sensors (Python simulator), using Java, Spring Boot, messaging and WebSockets. [App](https://plataforma-iot-industrial.vercel.app) · [Code](https://github.com/MatheusFranciscoLS/plataforma-iot-industrial).
 - **Solidarity Economy:** SENAI capstone developed as a team; my main contribution was the React frontend and API integration. [App](https://economia-solidaria-frontend.vercel.app) · [Code](https://github.com/MatheusFranciscoLS/ProjetoFinal).
+
+### How I work with AI
+
+I use AI agents in development and I say so on every project. The method is called *harness engineering*:
+
+- **I specify:** product, business rules and acceptance criteria come before any code.
+- **Agents implement and review:** Claude Code implements and ChatGPT performs an independent review of every change.
+- **Tests and CI are the gate:** in Pelo & Ponto, nothing reaches `main` without passing tests and automated checks.
+- **I answer for the decisions:** I get a summary of each delivery so I can explain and defend the technical choices.
 
 ### Education and courses
 
